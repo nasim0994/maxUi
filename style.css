@@ -1,30 +1,30 @@
 .btn {
-  padding: 5px 10px;
-  border-radius: 8px;
-  border: 0;
+  padding: 5px 10px !important;
+  border-radius: 8px !important;
+  border: 0 !important;
 }
 
 .bg-primary {
   background: #ff0080 !important;
-  color: #fff;
+  color: #fff !important;
 }
 .bg-secondary {
   background: #7928ca !important;
-  color: #fff;
+  color: #fff !important;
 }
 .bg-success {
   background: #057a55 !important;
-  color: #fff;
+  color: #fff !important;
 }
 .bg-info {
   background: #0dcaf0 !important;
-  color: #fff;
+  color: #fff !important;
 }
 .bg-warning {
   background: #ffc107 !important;
-  color: #fff;
+  color: #fff !important;
 }
 .bg-error {
   background: #e02424 !important;
-  color: #fff;
+  color: #fff !important;
 }
