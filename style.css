@@ -1,0 +1,18 @@
+.bg-primary {
+  background: #ff0080 !important;
+}
+.bg-secondary {
+  background: #7928ca !important;
+}
+.bg-success {
+  background: #057a55 !important;
+}
+.bg-info {
+  background: #0dcaf0 !important;
+}
+.bg-warning {
+  background: #ffc107 !important;
+}
+.bg-error {
+  background: #e02424 !important;
+}
