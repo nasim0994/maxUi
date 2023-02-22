@@ -1,25 +1,30 @@
-.Btn {
-  padding: 5px 10px !important;
-  border-radius: 8px !important;
-  border: 0 !important;
+.btn {
+  padding: 10px 15px;
+  border-radius: 8px;
+  background: #1e293b;
   color: #fff !important;
 }
 
-.bg-primary {
+.btn-primary {
   background: #ff0080 !important;
 }
-.bg-secondary {
-  background: #7928ca !important;
+.btn-secondary {
+  background: #7928ca;
 }
-.bg-success {
-  background: #057a55 !important;
+.btn-success {
+  background: #057a55;
 }
-.bg-info {
-  background: #0dcaf0 !important;
+.btn-info {
+  background: #0dcaf0;
 }
-.bg-warning {
-  background: #ffc107 !important;
+.btn-warning {
+  background: #ffc107;
 }
-.bg-error {
-  background: #e02424 !important;
+.btn-error {
+  background: #e02424;
+}
+
+.hover:hover {
+  opacity: 0.8 !important;
+  transition: all 0.3s;
 }
