@@ -1,18 +1,30 @@
+.btn {
+  padding: 5px 10px;
+  border-radius: 8px;
+  border: 0;
+}
+
 .bg-primary {
   background: #ff0080 !important;
+  color: #fff;
 }
 .bg-secondary {
   background: #7928ca !important;
+  color: #fff;
 }
 .bg-success {
   background: #057a55 !important;
+  color: #fff;
 }
 .bg-info {
   background: #0dcaf0 !important;
+  color: #fff;
 }
 .bg-warning {
   background: #ffc107 !important;
+  color: #fff;
 }
 .bg-error {
   background: #e02424 !important;
+  color: #fff;
 }
